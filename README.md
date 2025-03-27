@@ -86,4 +86,4 @@ The model is implemented using TensorFlow's Keras API with the following layers:
 ## 📥 **Setup and Installation**
 ### **1. Clone the Repository**
 ```bash
-git clone https://github.com/yourusername/imdb-lstm-tutorial.git
+git clone https://github.com/MuhammadAdnan6/MLNN.git
